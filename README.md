@@ -1,6 +1,7 @@
 ## Hello there! 👋 I'm Param
 
 **📚 I'm a senior studying Computer Engineering at [UW-Madison](https://engineering.wisc.edu/)**
+
 **💻 Passionate about building high-performant, scalable applications that make a tangible impact.**
 
 - 🔭 Currently building [Interviewee Prep](https://github.com/Interviewee-Prep)
