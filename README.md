@@ -1,6 +1,6 @@
 ## Hello there! 👋 I'm Param
 
-**📚 I recently graduated from Computer Engineering at [UW-Madison](https://engineering.wisc.edu/)**  
+**📚 I have a Bachelor of Science in Computer Engineering from [UW-Madison](https://engineering.wisc.edu/)**  
 
 **💼 I currently work at [Amazon Web Services](https://aws.amazon.com/), where I'm building web services to support IoT devices worldwide**
 
